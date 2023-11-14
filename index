@@ -1,0 +1,76 @@
+table,th,td
+{
+border:3px solid black;
+border-collapse:collapse; /* for outside the box not to get the double line used this tag*/
+height:42px;
+width:50%;
+table-layout:fixed;
+}
+th{
+    color:red;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}   
+td{
+    color:deeppink;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2
+{
+text-align:center;
+font size :16px;
+}
+li{
+    font-size:20px;
+}
+.bg-container{
+    border:1px solid black;
+    /*border-bottom:none;*/
+    /*height: 100vh;*/
+    background-size: cover;
+    width:100%;
+}
+.vertical
+{
+    display: flex;
+    
+    /* flex-direction: column; */
+}
+ul{
+    /*border: 1px solid;*/
+}
+.nav-container{
+    border:1px solid black;
+    /* order:1; */
+    width:20%;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-bottom:none;
+    border-right: 0vh;
+    border-left:0vh;;
+}
+.dev-team-container{
+    width:80%;
+    border:1px solid black;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+    border-bottom: none;
+}
+a{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h2{
+    font-size:30px;
+}
+h3{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

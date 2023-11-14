@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Xencia form</title></head>
+<link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="bg-container">
+        <h2>Xencia technology</h2>
+        <div class="vertical">
+            <nav class="nav-container">
+                <div>
+                    <a href="#">Home</a><br>
+                    <a href="#">Department</a><br>
+                    <a href="#">Member</a><br>
+                </div>
+                <div>
+                    <a href="#">AboutUs</a><br>
+                    <a href="#">ContactUs</a>
+
+                </div>
+            </nav>
+            <div class="dev-team-container">
+                <h3>Development Team</h3>
+                <table >
+                    <tr>
+                        <th>S.no</th>
+                        <th>Name</th>
+                        <th>Branch</th>
+                        <th>Place</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Jithendra</td>
+                        <td>IT</td>
+                        <td>Tadepalligudem</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Manidhar</td>
+                        <td>CSE</td>
+                        <td>Devarapalli</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>Ramsai</td>
+                        <td>Civil</td>
+                        <td>Vijaywada</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>Aman</td>
+                        <td>IT</td>
+                        <td>Uttar pradesh</td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>Hasan</td>
+                        <td>CSE</td>
+                        <td>Bihar</td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>Balaji</td>
+                        <td>CSE</td>
+                        <td>Devarapalli</td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>Harsha</td>
+                        <td>MECH</td>
+                        <td>Hindhupur</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        </div>
+</body>
