@@ -1,0 +1,41 @@
+.box
+{
+    border:1px solid black;
+    margin:right;  
+}
+h1{                       /*tag selector*/
+    text-align: left;
+    color:blue;
+}
+.redtext{                /*class selector*/
+    color:green;
+}
+#mybox                   /*ID selector*/
+{
+    color:orange;
+}
+img[target="Happy"]         /*Attribute selector*/
+{
+    color:brown;
+    width:50%;
+    height:50%;
+    font-weight:bold;
+}
+*{                        /*universal selector*/
+    font size: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border:1px solid orange;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    width: 600px;
+    text-align: center
+}
+.attribute-selector{
+    display: block;
+}
+
+
